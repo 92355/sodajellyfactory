@@ -1,0 +1,27 @@
+{
+  "name": "sodajellyfactory",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/bagel-fat-one": "^5.2.7",
+    "@fontsource/ibm-plex-sans-kr": "^5.2.8",
+    "@tailwindcss/postcss": "^4.3.0",
+    "framer-motion": "^12.40.0",
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "tailwindcss": "^4.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.50",
+    "@types/react": "19.0.12",
+    "@types/react-dom": "19.0.4",
+    "typescript": "5.8.3"
+  }
+}
